@@ -35,7 +35,7 @@ s = Console.ReadLine();
 Console.Write("Digite um booleano (digite true ou false): ");
 b1 = bool.Parse(Console.ReadLine()); */
 
-int n1, n2, soma;
+/* int n1, n2, soma;
 double media;
 Console.Write("Digite um número: ");
 n1 = int.Parse(Console.ReadLine());
@@ -44,4 +44,15 @@ n2 = int.Parse(Console.ReadLine());
 soma = n1 + n2;
 media = soma / 2;
 Console.Write("Soma = " + soma);
-Console.Write("\nMedia = " + media);
+Console.Write("\nMedia = " + media); */
+
+int preinc = 7, posinc = 7, predec = 7, posdec = 7;
+Console.WriteLine($"pré-incremento = {++preinc}");
+Console.WriteLine($"pós-incremento = {posinc++}");
+Console.WriteLine($"pré-decremento = {--predec}");
+Console.WriteLine($"pós-decremento = {posdec--}");
+Console.WriteLine("\nREIMPRIMINDO");
+Console.WriteLine($"pré-incremento = {preinc}");
+Console.WriteLine($"pós-incremento = {posinc}");
+Console.WriteLine($"pré-decremento = {predec}");
+Console.WriteLine($"pós-decremento = {posdec}");

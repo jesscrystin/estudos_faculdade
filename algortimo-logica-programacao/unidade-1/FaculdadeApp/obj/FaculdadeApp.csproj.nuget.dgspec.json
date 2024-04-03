@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jessi\\Desktop\\Estudos\\estudo_faculdade\\algortimo-logica-programacao\\unidade-1\\FaculdadeApp\\FaculdadeApp.csproj": {}
+    "c:\\Users\\jessi\\Desktop\\Estudos\\estudo_faculdade\\algortimo-logica-programacao\\unidade-1\\FaculdadeApp\\FaculdadeApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jessi\\Desktop\\Estudos\\estudo_faculdade\\algortimo-logica-programacao\\unidade-1\\FaculdadeApp\\FaculdadeApp.csproj": {
+    "c:\\Users\\jessi\\Desktop\\Estudos\\estudo_faculdade\\algortimo-logica-programacao\\unidade-1\\FaculdadeApp\\FaculdadeApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jessi\\Desktop\\Estudos\\estudo_faculdade\\algortimo-logica-programacao\\unidade-1\\FaculdadeApp\\FaculdadeApp.csproj",
+        "projectUniqueName": "c:\\Users\\jessi\\Desktop\\Estudos\\estudo_faculdade\\algortimo-logica-programacao\\unidade-1\\FaculdadeApp\\FaculdadeApp.csproj",
         "projectName": "FaculdadeApp",
-        "projectPath": "C:\\Users\\jessi\\Desktop\\Estudos\\estudo_faculdade\\algortimo-logica-programacao\\unidade-1\\FaculdadeApp\\FaculdadeApp.csproj",
+        "projectPath": "c:\\Users\\jessi\\Desktop\\Estudos\\estudo_faculdade\\algortimo-logica-programacao\\unidade-1\\FaculdadeApp\\FaculdadeApp.csproj",
         "packagesPath": "C:\\Users\\jessi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jessi\\Desktop\\Estudos\\estudo_faculdade\\algortimo-logica-programacao\\unidade-1\\FaculdadeApp\\obj\\",
+        "outputPath": "c:\\Users\\jessi\\Desktop\\Estudos\\estudo_faculdade\\algortimo-logica-programacao\\unidade-1\\FaculdadeApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jessi\\AppData\\Roaming\\NuGet\\NuGet.Config"
