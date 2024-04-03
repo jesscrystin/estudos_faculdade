@@ -1,0 +1,14 @@
+c:\Users\jessi\Desktop\Estudos\estudo_faculdade\algortimo-logica-programacao\unidade-1\FaculdadeApp\obj\Debug\net8.0\FaculdadeApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\jessi\Desktop\Estudos\estudo_faculdade\algortimo-logica-programacao\unidade-1\FaculdadeApp\obj\Debug\net8.0\FaculdadeApp.AssemblyInfoInputs.cache
+c:\Users\jessi\Desktop\Estudos\estudo_faculdade\algortimo-logica-programacao\unidade-1\FaculdadeApp\obj\Debug\net8.0\FaculdadeApp.AssemblyInfo.cs
+c:\Users\jessi\Desktop\Estudos\estudo_faculdade\algortimo-logica-programacao\unidade-1\FaculdadeApp\obj\Debug\net8.0\FaculdadeApp.csproj.CoreCompileInputs.cache
+c:\Users\jessi\Desktop\Estudos\estudo_faculdade\algortimo-logica-programacao\unidade-1\FaculdadeApp\bin\Debug\net8.0\FaculdadeApp.exe
+c:\Users\jessi\Desktop\Estudos\estudo_faculdade\algortimo-logica-programacao\unidade-1\FaculdadeApp\bin\Debug\net8.0\FaculdadeApp.deps.json
+c:\Users\jessi\Desktop\Estudos\estudo_faculdade\algortimo-logica-programacao\unidade-1\FaculdadeApp\bin\Debug\net8.0\FaculdadeApp.runtimeconfig.json
+c:\Users\jessi\Desktop\Estudos\estudo_faculdade\algortimo-logica-programacao\unidade-1\FaculdadeApp\bin\Debug\net8.0\FaculdadeApp.dll
+c:\Users\jessi\Desktop\Estudos\estudo_faculdade\algortimo-logica-programacao\unidade-1\FaculdadeApp\bin\Debug\net8.0\FaculdadeApp.pdb
+c:\Users\jessi\Desktop\Estudos\estudo_faculdade\algortimo-logica-programacao\unidade-1\FaculdadeApp\obj\Debug\net8.0\FaculdadeApp.dll
+c:\Users\jessi\Desktop\Estudos\estudo_faculdade\algortimo-logica-programacao\unidade-1\FaculdadeApp\obj\Debug\net8.0\refint\FaculdadeApp.dll
+c:\Users\jessi\Desktop\Estudos\estudo_faculdade\algortimo-logica-programacao\unidade-1\FaculdadeApp\obj\Debug\net8.0\FaculdadeApp.pdb
+c:\Users\jessi\Desktop\Estudos\estudo_faculdade\algortimo-logica-programacao\unidade-1\FaculdadeApp\obj\Debug\net8.0\FaculdadeApp.genruntimeconfig.cache
+c:\Users\jessi\Desktop\Estudos\estudo_faculdade\algortimo-logica-programacao\unidade-1\FaculdadeApp\obj\Debug\net8.0\ref\FaculdadeApp.dll

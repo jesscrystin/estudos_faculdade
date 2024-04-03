@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FaculdadeApp/1.0.0": {
+        "runtime": {
+          "FaculdadeApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FaculdadeApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
