@@ -46,7 +46,7 @@ media = soma / 2;
 Console.Write("Soma = " + soma);
 Console.Write("\nMedia = " + media); */
 
-int preinc = 7, posinc = 7, predec = 7, posdec = 7;
+/* int preinc = 7, posinc = 7, predec = 7, posdec = 7;
 Console.WriteLine($"pré-incremento = {++preinc}");
 Console.WriteLine($"pós-incremento = {posinc++}");
 Console.WriteLine($"pré-decremento = {--predec}");
@@ -55,4 +55,20 @@ Console.WriteLine("\nREIMPRIMINDO");
 Console.WriteLine($"pré-incremento = {preinc}");
 Console.WriteLine($"pós-incremento = {posinc}");
 Console.WriteLine($"pré-decremento = {predec}");
-Console.WriteLine($"pós-decremento = {posdec}");
+Console.WriteLine($"pós-decremento = {posdec}"); */
+
+/* string nome;
+double altura, peso;
+
+Console.WriteLine("Digite seu nome: ");
+nome = Console.ReadLine();
+Console.WriteLine("\nDigite sua altura em metros: ");
+altura = double.Parse(Console.ReadLine());
+Console.Write("Digite seu peso em kg: ");
+peso = double.Parse(Console.ReadLine());
+
+altura = Math.Pow(altura, 2);
+double imc = peso / altura;
+
+Console.WriteLine(nome + " o seu IMC é: " + imc); */
+
