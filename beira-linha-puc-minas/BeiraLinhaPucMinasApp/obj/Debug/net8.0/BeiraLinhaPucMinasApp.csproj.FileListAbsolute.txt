@@ -1,0 +1,14 @@
+c:\Users\jessi\Desktop\Estudos\estudo_faculdade\Microfundamento_algoritmo_e_logica_de_programacao\beira-linha-puc-minas\BeiraLinhaPucMinasApp\bin\Debug\net8.0\BeiraLinhaPucMinasApp.exe
+c:\Users\jessi\Desktop\Estudos\estudo_faculdade\Microfundamento_algoritmo_e_logica_de_programacao\beira-linha-puc-minas\BeiraLinhaPucMinasApp\bin\Debug\net8.0\BeiraLinhaPucMinasApp.deps.json
+c:\Users\jessi\Desktop\Estudos\estudo_faculdade\Microfundamento_algoritmo_e_logica_de_programacao\beira-linha-puc-minas\BeiraLinhaPucMinasApp\bin\Debug\net8.0\BeiraLinhaPucMinasApp.runtimeconfig.json
+c:\Users\jessi\Desktop\Estudos\estudo_faculdade\Microfundamento_algoritmo_e_logica_de_programacao\beira-linha-puc-minas\BeiraLinhaPucMinasApp\bin\Debug\net8.0\BeiraLinhaPucMinasApp.dll
+c:\Users\jessi\Desktop\Estudos\estudo_faculdade\Microfundamento_algoritmo_e_logica_de_programacao\beira-linha-puc-minas\BeiraLinhaPucMinasApp\bin\Debug\net8.0\BeiraLinhaPucMinasApp.pdb
+c:\Users\jessi\Desktop\Estudos\estudo_faculdade\Microfundamento_algoritmo_e_logica_de_programacao\beira-linha-puc-minas\BeiraLinhaPucMinasApp\obj\Debug\net8.0\BeiraLinhaPucMinasApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\jessi\Desktop\Estudos\estudo_faculdade\Microfundamento_algoritmo_e_logica_de_programacao\beira-linha-puc-minas\BeiraLinhaPucMinasApp\obj\Debug\net8.0\BeiraLinhaPucMinasApp.AssemblyInfoInputs.cache
+c:\Users\jessi\Desktop\Estudos\estudo_faculdade\Microfundamento_algoritmo_e_logica_de_programacao\beira-linha-puc-minas\BeiraLinhaPucMinasApp\obj\Debug\net8.0\BeiraLinhaPucMinasApp.AssemblyInfo.cs
+c:\Users\jessi\Desktop\Estudos\estudo_faculdade\Microfundamento_algoritmo_e_logica_de_programacao\beira-linha-puc-minas\BeiraLinhaPucMinasApp\obj\Debug\net8.0\BeiraLinhaPucMinasApp.csproj.CoreCompileInputs.cache
+c:\Users\jessi\Desktop\Estudos\estudo_faculdade\Microfundamento_algoritmo_e_logica_de_programacao\beira-linha-puc-minas\BeiraLinhaPucMinasApp\obj\Debug\net8.0\BeiraLinhaPucMinasApp.dll
+c:\Users\jessi\Desktop\Estudos\estudo_faculdade\Microfundamento_algoritmo_e_logica_de_programacao\beira-linha-puc-minas\BeiraLinhaPucMinasApp\obj\Debug\net8.0\refint\BeiraLinhaPucMinasApp.dll
+c:\Users\jessi\Desktop\Estudos\estudo_faculdade\Microfundamento_algoritmo_e_logica_de_programacao\beira-linha-puc-minas\BeiraLinhaPucMinasApp\obj\Debug\net8.0\BeiraLinhaPucMinasApp.pdb
+c:\Users\jessi\Desktop\Estudos\estudo_faculdade\Microfundamento_algoritmo_e_logica_de_programacao\beira-linha-puc-minas\BeiraLinhaPucMinasApp\obj\Debug\net8.0\BeiraLinhaPucMinasApp.genruntimeconfig.cache
+c:\Users\jessi\Desktop\Estudos\estudo_faculdade\Microfundamento_algoritmo_e_logica_de_programacao\beira-linha-puc-minas\BeiraLinhaPucMinasApp\obj\Debug\net8.0\ref\BeiraLinhaPucMinasApp.dll
